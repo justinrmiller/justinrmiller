@@ -1,5 +1,3 @@
-# Justin Miller
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-justinraymiller-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/justinraymiller/)
 [![Website](https://img.shields.io/badge/Website-justinrmiller.com-green?style=flat-square&logo=web)](http://www.justinrmiller.com)
 
