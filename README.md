@@ -1,7 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-justinraymiller-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/justinraymiller/)
 [![Website](https://img.shields.io/badge/Website-justinrmiller.com-green?style=flat-square&logo=web)](http://www.justinrmiller.com)
 
-Software engineer based in Los Angeles, CA with expertise in distributed systems, data engineering, and machine learning.
+Hello! I'm a software engineer based in Los Angeles, CA with expertise in distributed systems, data engineering, and machine learning. I believe iteration is essential and that great ideas can come from anyone so it's important to keep an open mind.
 
 ## 🚀 Featured Projects
 
