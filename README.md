@@ -59,11 +59,11 @@ A tutorial repository demonstrating how to effectively use regular expressions w
 
 ## 🔧 Skills
 
-- **Languages**: Scala, Java, Python, Rust, JavaScript
-- **Big Data**: Apache Spark, Kafka, Ray, Parquet
-- **Databases**: Redis, Cassandra, PostgreSQL
+- **Languages**: Python, Scala, Java, Rust
+- **Big Data**: Apache Airflow, Apache Spark, Kafka, Ray, Parquet
+- **Databases**: Redis/Valkey, Cassandra, PostgreSQL, Qdrant
 - **Cloud**: AWS, GCP
-- **DevOps**: Docker, Kubernetes
+- **DevOps**: Docker, Kubernetes, GitHub Actions
 
 ## 📫 Get in Touch
 
