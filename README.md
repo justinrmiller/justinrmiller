@@ -29,16 +29,17 @@ A Ray Data integration for FiftyOne datasets, enabling distributed processing of
 - Field selection, view stages, and label serialization
 - Export to Parquet for data warehousing
 
-### 3. [ray-vector-io](https://github.com/justinrmiller/ray-vector-io)
+### 3. [lance-video](https://github.com/justinrmiller/lance-video)
 
-Ray Vector Database Input/Output Utilities. This project provides tools for seamless integration between Ray, a distributed computing framework, and various vector databases. Designed to optimize data pipeline workflows involving vector embeddings for AI applications like semantic search and recommendation systems.
+A demonstration platform for analyzing and searching video content using LanceDB. Combines multi-modal AI embeddings with a Gradio interface for intelligent video discovery, processing videos through an ingest pipeline that extracts transcripts, generates temporal segments, and encodes both text and visual embeddings.
 
-**Tech Stack**: Python, Ray
+**Tech Stack**: Python, LanceDB, Gradio, FFmpeg, Faster-Whisper
 
 **Key Features**:
-- Streamlined data loading/extraction from vector databases
-- Integration with Ray's distributed computing ecosystem
-- Support for various vector database formats
+- Multi-modal search across text (hybrid e5 + full-text), visual (SigLIP 2), and combined modes
+- Eight-stage ingest pipeline with transcription and temporal segmentation
+- Gradio web UI with real-time ingest, inline clip playback, and database administration
+- Clip storage and retrieval directly from LanceDB with GPU auto-detection and CPU fallback
 
 ### 4. [opensearch-lancedb-migration](https://github.com/justinrmiller/opensearch-lancedb-migration)
 
